@@ -1,3 +1,3 @@
 # My-Fitness-Club
-A simple Fitness Web Application made with React.js 
+A user-friendly Fitness Web Application 
 # Currently Deployed at: https://myfitness-club.netlify.app/
